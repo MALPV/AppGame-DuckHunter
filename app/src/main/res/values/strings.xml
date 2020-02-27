@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DuckHuntProject</string>
+    <string name="dialog_message">Patos cazados:</string>
+    <string name="dialog_title">Game Over</string>
+    <string name="reiniciar">Volver a jugar</string>
+    <string name="salir">Salir</string>
+    <string name="title_activity_ranking">RankingActivity</string>
+</resources>
